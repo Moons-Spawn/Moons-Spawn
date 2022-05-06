@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moons-Spawn
-- 👀 I’m interested in learning programming that will allow me to create applications that I think are useful.
+- 👀 I’m interested in learning programming through The Odin Project!
 - 🌱 I’m currently learning on The Odin Project. Began on 4/2022.
 - 💞️ I’m looking to collaborate on nothing at the moment. Gotta learn the ropes first!
 
